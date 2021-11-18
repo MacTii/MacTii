@@ -10,8 +10,8 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 # Technologies
 - C lang (intermediate)
 - OOP with C++, Java (intermediate)
-- Python and many useful libraries like matplotlib, pyGame, pyQt, etc. (basic)
-- Project management with tools like git and Trello
+- Python and many useful libraries like matplotlib, skimage, pyGame, pyQt, etc. (basic)
+- Project management with tools like git, Jira and Trello
 - Basic knowledge of 3D modelling in 3DSmax
 - Basics of AutoCAD
 - Basics of SQL
