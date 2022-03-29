@@ -23,9 +23,12 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 
 <img align="left" alt="Cpp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 
-<img align="left" alt="Cs" width="30px" src="https://www.freeiconspng.com/img/28402" />
+<img align="left" alt="Cs" width="30px" src="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#/media/File:C_Sharp_wordmark.svg" />
 
-<img align="left" alt="Python" width="30px" src="https://camo.githubusercontent.com/8f7b3fb40e2b05078d94187e1ea3e664e05ff33b3b643835d5759e2ade35515d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3230343870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" /> <br /> <br />
+<img align="left" alt="Python" width="30px" src="https://camo.githubusercontent.com/8f7b3fb40e2b05078d94187e1ea3e664e05ff33b3b643835d5759e2ade35515d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3230343870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" /> 
+
+<img align="left" alt="JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<br /> <br />
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MacTii&theme=blue-green)
 
@@ -41,6 +44,8 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 <img align="left" alt="Git" width="30px" src="https://i1.wp.com/kosiorowski.net/wp-content/uploads/2014/01/git-logo-cc-by-300x300.png?fit=300%2C300&ssl=1" />
 
 <img align="left" alt="Github" width="30px" src="https://camo.githubusercontent.com/591b9ddafbc5d7683b318413d8b8b80213d84b7c7fdba2ce2d26cca51f53b6ee/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733332f3733333535332e706e67" />
+
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <!---
 MacTii/MacTii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
