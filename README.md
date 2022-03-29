@@ -30,7 +30,7 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 <img align="left" alt="JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br /> <br />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MacTii&langs_count=6&layout=compact&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MacTii&langs_count=6&layout=compact&theme=cobalt)
 
 # Tools
 <img align="left" alt="VSCode" width="30px" src="https://camo.githubusercontent.com/7f3d08d131eecd531d8303589356e546ac0362da2f451577fd6d45019d42a0b1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f35313270782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" />
