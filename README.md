@@ -3,9 +3,9 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 
 # About me
 👀 I’m interested in C/C++, Java, Python, C# <br />
-🌱 I’m currently learning Python and C# 
-💞️ I’m looking for an internship / part-time job.  
-📫 How to reach me: mactii41@gmail.com  
+🌱 I’m currently learning Python and C# <br />
+💞️ I’m looking for an internship / part-time job.  <br />
+📫 How to reach me: mactii41@gmail.com  <br />
 
 # Technologies
 - C lang (intermediate)
