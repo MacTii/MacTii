@@ -15,6 +15,8 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 - Basic knowledge of 3D modelling in 3DSmax
 - Basics of AutoCAD
 - Basics of SQL
+- 
+https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white
 
 <!---
 MacTii/MacTii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
