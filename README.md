@@ -39,9 +39,6 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 # Most used languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MacTii&theme=blue-green)
 
----
-![](https://komarev.com/ghpvc/?username=MacTii)
-
 <!---
 MacTii/MacTii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
