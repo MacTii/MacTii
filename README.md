@@ -19,9 +19,8 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 # Languages
 <img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/b5a4579e36f5e9df6020f467fb0d3aca745c764749c6a97d2a07ba5773fbee4f/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3232362f3232363737372e706e67" />
 
-<a style="pointer-events: none;  cursor: default;">
-  <img align="left" alt="C" width="30px" src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/jezyk_C_bez_tla.png?1614248774" />
-</a>
+<img align="left" alt="C" width="30px" src="aHR0cHM6Ly9mcy5zaXRlb3IuY29tL2phdmF0ZWNoL2ZpbGVzL2xheW91dC9hc3Nhbi92YXZhdGVj
+aC9pbWcvY29udGVudC9qZXp5a19DX2Jlel90bGEucG5nPzE2MTQyNDg3NzQ=" />
 
 <img align="left" alt="Cpp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 
