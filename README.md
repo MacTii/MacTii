@@ -47,7 +47,8 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 
 <img align="left" alt="Github" width="30px" src="https://camo.githubusercontent.com/591b9ddafbc5d7683b318413d8b8b80213d84b7c7fdba2ce2d26cca51f53b6ee/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733332f3733333535332e706e67" />
 
-<svg align="left" alt="AndroidStudio" width="30px" src="https://img.dobreprogramy.pl/Images/ToolIcon/16899/20151002134819_0.png" >
+<svg>
+  <img align="left" alt="AndroidStudio" width="30px" src="https://img.dobreprogramy.pl/Images/ToolIcon/16899/20151002134819_0.png" />
 </svg>
 
 <a href="#">
