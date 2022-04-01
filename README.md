@@ -3,7 +3,7 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 
 # About me
 👀 I’m interested in C/C++, Java, Python, C# <br />
-🌱 I’m currently learning C# and JS(React) <br />
+🌱 I’m currently learning C#, Spring boot and React <br />
 💞️ I’m looking for an internship / part-time job.  <br />
 📫 How to reach me: mactii41@gmail.com  <br />
 
@@ -11,6 +11,7 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 - C lang (intermediate)
 - OOP with Java (intermediate), C# (basic), C++ (basic)
 - Python and many useful libraries like matplotlib, skimage, pyGame, pyQt, etc. (basic/intermediate)
+- Basics of creating websites using html, css and php
 - Project management with tools like git, Jira and Trello
 - Basic knowledge of 3D modelling in 3DSmax
 - Basics of AutoCAD
