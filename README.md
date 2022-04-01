@@ -34,7 +34,7 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
   <img align="left" alt="Css" width="22px" 
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
   
-  <img align="left" alt="Php" width="30px" height= "100px"
+  <img align="left" alt="Php" width="30px" height= "25px"
        src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>
   
   <img align="left" alt="JS" width="30px" 
