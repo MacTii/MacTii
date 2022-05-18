@@ -43,7 +43,7 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
   <br /> <br />
 </a>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MacTii&langs_count=6&layout=compact&theme=tokyonight)
+[![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MacTii&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/MacTii/MacTii)
 
 # Tools
 <a href="#">
