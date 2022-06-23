@@ -71,7 +71,7 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
   
   <img align="left" alt="NodeJS" title="NodeJS" width="50px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
   
-  <img align="left" alt="Godot" title="Godot" width="50px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />
+  <img align="left" alt="Godot" title="Godot" width="50px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />
 </a>
 
 <!---
