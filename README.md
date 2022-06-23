@@ -21,7 +21,7 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 <a href="#">
   <img align="left" alt="Java" title="Java" width="30px" src="https://camo.githubusercontent.com/b5a4579e36f5e9df6020f467fb0d3aca745c764749c6a97d2a07ba5773fbee4f/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3232362f3232363737372e706e67" />
 
-  <img align="left" alt="C" title="C" width="30px" src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/jezyk_C_bez_tla.png?1614248774" />
+  <img align="left" alt="C" title="C" width="32px" src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/jezyk_C_bez_tla.png?1614248774" />
 
   <img align="left" alt="Cpp" title="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 
@@ -31,10 +31,10 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
   
   <img align="left" alt="SQL" title="SQL" width="28px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
 
-  <img align="left" alt="Html" title="HTML" width="30px" 
+  <img align="left" alt="Html" title="HTML" width="32px" 
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
   
-  <img align="left" alt="Css" title="CSS" width="22px" 
+  <img align="left" alt="Css" title="CSS" width="24px" 
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
   
   <img align="left" alt="Php" title="PHP" width="30px" height= "25px"
