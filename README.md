@@ -70,6 +70,8 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
   <img align="left" alt="Spring" title="SpringBoot" width="50px" height="25px" src="https://teamsharq.com/images/spring-boot-logo.png" />
   
   <img align="left" alt="NodeJS" title="NodeJS" width="50px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
+  
+  <img align="left" alt="Godot" title="Godot" width="50px" height="25px" src="https://alfred.dailyweb.pl/wp-content/uploads/2018/02/godot.jpg" />
 </a>
 
 <!---
