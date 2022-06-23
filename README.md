@@ -27,7 +27,7 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 
   <img align="left" alt="Cs" title="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
 
-  <img align="left" alt="Python" width="30px" src="https://camo.githubusercontent.com/8f7b3fb40e2b05078d94187e1ea3e664e05ff33b3b643835d5759e2ade35515d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3230343870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" />
+  <img align="left" alt="Python" title="Python" width="30px" src="https://camo.githubusercontent.com/8f7b3fb40e2b05078d94187e1ea3e664e05ff33b3b643835d5759e2ade35515d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3230343870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" />
   
   <img align="left" alt="SQL" title="SQL" width="30px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
 
