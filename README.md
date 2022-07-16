@@ -3,7 +3,7 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 
 # About me
 👀 I’m interested in Java, Python, C# <br />
-🌱 I’m currently learning C#, Spring boot and React <br />
+🌱 I’m currently learning Spring boot and React <br />
 💞️ I'm working at Infosys Poland sp. z o.o as Systems Engineer <br />
 📫 How to reach me: mactii41@gmail.com  <br />
 
