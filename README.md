@@ -67,7 +67,7 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 
   <img align="left" alt="React" title="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   
-  <img align="left" alt="Spring" title="SpringBoot" width="50px" height="25px" src="https://miro.medium.com/max/640/0*xvF9Sv-rjfv-1Np6.jpg" />
+  <img align="left" alt="Spring" title="Spring" width="50px" height="30px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
   
   <img align="left" alt="NodeJS" title="NodeJS" width="50px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
   
