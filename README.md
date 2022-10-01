@@ -20,6 +20,8 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 # Languages
 <a href="#">
   <img align="left" alt="Java" title="Java" width="30px" src="https://camo.githubusercontent.com/b5a4579e36f5e9df6020f467fb0d3aca745c764749c6a97d2a07ba5773fbee4f/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3232362f3232363737372e706e67" />
+  
+  <img align="left" alt="C#" title="C#" width="30px" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" />
 
   <img align="left" alt="C" title="C" width="32px" src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/jezyk_C_bez_tla.png?1614248774" />
 
