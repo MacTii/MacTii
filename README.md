@@ -10,12 +10,13 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 # Technologies
 - C lang (intermediate)
 - OOP with Java (basic/intermediate), C# (intermediate), C++ (basic/intermediate)
+- Web-development using ASP.NET, C# .NET, WebAPI
+- Experienced in SQL Server
 - Python and many useful libraries like matplotlib, skimage, pyGame, pyQt, etc. (basic/intermediate)
 - Basics of creating websites using html, css and php
-- Project management with tools like git, Jira and Trello
+- Project management with tools like git, Azure, Jira and Trello
 - Basic knowledge of 3D modelling in 3DSmax
 - Basics of AutoCAD
-- Basics of SQL
 
 # Languages
 <a href="#">
