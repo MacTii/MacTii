@@ -1,5 +1,6 @@
 # 👋 Hi there  
 Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Computer Science student at the Lodz University of Technology, Poland.
+Currently working as a Systems Engineer at Infosys Poland.
 
 # About me
 👀 I’m interested in C#, Python, Java <br />
