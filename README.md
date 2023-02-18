@@ -47,7 +47,7 @@ Currently working as a Systems Engineer at Infosys Poland.
   <br /> <br />
 </a>
 
-[![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MacTii&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/MacTii/MacTii)
+<!-- [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MacTii&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/MacTii/MacTii) -->
 
 # Tools
 <a href="#">
