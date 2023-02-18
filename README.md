@@ -69,7 +69,7 @@ Currently working as a Systems Engineer at Infosys Poland.
 
   <img align="left" alt="React" title="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   
-  <img align="left" alt="Spring" title="Spring" width="50px" height="35px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
+  <img align="left" alt="Spring" title="Spring" width="50px" height="35px" src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/spring_logo_2.png?1614082637" />
   
   <img align="left" alt="NodeJS" title="NodeJS" width="50px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
   
