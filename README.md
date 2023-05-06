@@ -4,8 +4,8 @@ Currently working as a Application Developer at Accenture Poland.
 
 # About me
 👀 I’m interested in C#, Python, Java <br />
-🌱 I’m currently learning Spring boot and React <br />
-💞️ I'm working at Infosys Poland sp. z o.o as Systems Engineer <br />
+🌱 I’m currently developing my skills in ASP.NET and React <br />
+💞️ I'm working at Accenture Poland sp. z o.o as Application Developer <br />
 📫 How to reach me: mactii41@gmail.com  <br />
 
 # Technologies
