@@ -21,7 +21,7 @@ Currently working as a Application Developer at Accenture Poland.
 
 # Languages
 <a href="#">
-   <img align="left" alt="Cs" title="C#" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+   <img align="left" alt="Cs" title="C#" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" />
    <img align="left" alt="Java" title="Java" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" />
 
   <img align="left" alt="C" title="C" width="32px" src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/jezyk_C_bez_tla.png?1614248774" />
