@@ -26,7 +26,7 @@ Currently working as a Application Developer at Accenture Poland.
    <img align="left" alt="C" title="C" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" />
    <img align="left" alt="Cpp" title="C++" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" />
    <img align="left" alt="Python" title="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
-   <img align="left" alt="SQL" title="SQL" width="40px" height="40px" src="https://www.pngitem.com/pimgs/m/197-1973343_sql-database-icon-png-transparent-png.png" />
+   <img align="left" alt="SQL" title="SQL" width="40px" height="40px" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" />
    <img align="left" alt="Html" title="HTML" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
    <img align="left" alt="Css" title="CSS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
    <img align="left" alt="Php" title="PHP" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg"/>
@@ -51,6 +51,7 @@ Currently working as a Application Developer at Accenture Poland.
    <img align="left" alt="AndroidStudio" title="AndroidStudio" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg"/>
    <img align="left" alt="Unity" title="Unity" width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png"/>
    <img align="left" alt="Godot" title="Godot" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg"/>
+   <img align="left" alt="Postman" title="Postman" width="40px" height="40px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/>
    <br /> <br />
 </a>
 
