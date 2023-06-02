@@ -57,6 +57,7 @@ Currently working as a Application Developer at Accenture Poland.
   <img align="left" alt="Spring" title="Spring" width="50px" height="35px" src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/spring_logo_2.png?1614082637" />
   
   <img align="left" alt="NodeJS" title="NodeJS" width="50px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
+  <br /> <br />
 </a>
 
 # Tools
@@ -70,6 +71,7 @@ Currently working as a Application Developer at Accenture Poland.
   <img align="left" alt="Unity" title="Unity" width="30px" src="https://feel3d.pl/wp-content/uploads/2020/09/unity-logo.png" />
   
   <img align="left" alt="Godot" title="Godot" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />
+  <br /> <br />
 </a>
 
 # IDEs
