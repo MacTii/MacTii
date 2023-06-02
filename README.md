@@ -51,6 +51,7 @@ Currently working as a Application Developer at Accenture Poland.
    <img align="left" alt="Github" title="GitHub" width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-github-159-721954.png"/>
       <img align="left" alt="GitLab" title="GitLab" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg"/>
    <img align="left" alt="Postman" title="Postman" width="40px" height="40px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/>
+   <img align="left" alt="AzureDevops" title="AzureDevops" width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png"/>
    <img align="left" alt="RabbitMQ" title="RabbitMQ" width="40px" height="40px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/rabbitmq-logo.png"/>
    <img align="left" alt="AndroidStudio" title="AndroidStudio" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg"/>
    <img align="left" alt="Unity" title="Unity" width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png"/>
