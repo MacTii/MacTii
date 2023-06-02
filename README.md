@@ -48,7 +48,7 @@ Currently working as a Application Developer at Accenture Poland.
 </a>
 
 <!-- [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MacTii&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/MacTii/MacTii) -->
-#Frameworks and libraries
+# Frameworks and libraries
 <a href="#">
   <img align="left" alt="EF" title="EF Core" width="50px" height="35px" src="https://static.gunnarpeipman.com/wp-content/uploads/2019/12/ef-core-featured.png" />
   
@@ -72,7 +72,7 @@ Currently working as a Application Developer at Accenture Poland.
   <img align="left" alt="Godot" title="Godot" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />
 </a>
 
-#IDEs
+# IDEs
 <a href="#">
   <img align="left" alt="VSCode" title="VSCode" width="30px" src="https://camo.githubusercontent.com/7f3d08d131eecd531d8303589356e546ac0362da2f451577fd6d45019d42a0b1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f35313270782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" />
 
