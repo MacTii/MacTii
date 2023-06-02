@@ -10,8 +10,8 @@ Currently working as a Application Developer at Accenture Poland.
 📫 How to reach me: mactii41@gmail.com  <br />
 
 # Contact with me
-   <a href="https://www.linkedin.com/in/mateusz-kapka-ldz/" target="blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40px" width="40px" /></a>
-   <img align="left" alt="Mail" title="Mail" width="40px" height="40px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" />
+   <a href="https://www.linkedin.com/in/mateusz-kapka-ldz/"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40px" width="40px" /></a>
+   <a href="mailto:mactii41@gmail.com"><img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Mail" height="40px" width="40px" /></a>
    <br /> <br />
 
 # Technologies
