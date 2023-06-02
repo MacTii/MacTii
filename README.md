@@ -10,7 +10,7 @@ Currently working as a Application Developer at Accenture Poland.
 📫 How to reach me: mactii41@gmail.com  <br />
 
 # Contact with me
-   <img align="left" alt="LinkedIn" title="C#" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
+   <a href="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg"><img align="left" alt="LinkedIn" title="C#" width="40px" height="40px" /> </a>
    <img align="left" alt="Mail" title="Mail" width="40px" height="40px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" />
    <br /> <br />
 
