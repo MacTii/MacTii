@@ -34,10 +34,12 @@ Currently working as a Application Developer at Accenture Poland.
    <br /> <br />
 </a>
 
-<!-- [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MacTii&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/MacTii/MacTii) -->
 # Frameworks and libraries
 <a href="#">
-   <img align="left" src="https://skillicons.dev/icons?i=dotnet,react,spring,nodejs" />
+   <img align="left" alt="dotNET" title=".NETCore" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg"/>
+   <img align="left" alt="React" title=".React" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"/>
+   <img align="left" alt="Spring" title=".Spring" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"/>
+   <img align="left" alt="nodeJS" title=".nodeJS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"/>
    <br /> <br />
 </a>
 
@@ -56,3 +58,6 @@ Currently working as a Application Developer at Accenture Poland.
 MacTii/MacTii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MacTii&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/MacTii/MacTii) -->
+<!-- <img align="left" src="https://skillicons.dev/icons?i=dotnet,react,spring,nodejs" /> -->
