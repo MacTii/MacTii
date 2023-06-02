@@ -4,13 +4,13 @@ Currently working as a Application Developer at Accenture Poland.
 
 # About me
 👀 I’m interested in C#, Python, Java <br />
-🌱 I’m currently developing my skills in ASP.NET and React <br />
+🌱 I’m currently developing my skills in ASP.NET <br />
 💞️ I'm working at Accenture Poland sp. z o.o as Application Developer <br />
 📫 How to reach me: mactii41@gmail.com  <br />
 
 # Technologies
 - C lang (intermediate)
-- OOP with Java (basic/intermediate), C# (intermediate), C++ (basic/intermediate)
+- OOP with C# (intermediate), Java (basic/intermediate), C++ (basic/intermediate)
 - Web-development using ASP.NET, C# .NET, WebAPI
 - Experienced in SQL Server
 - Python and many useful libraries like matplotlib, skimage, pyGame, pyQt, etc. (basic/intermediate)
