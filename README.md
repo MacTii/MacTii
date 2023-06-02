@@ -3,13 +3,13 @@ Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Com
 Currently working as a Application Developer at Accenture Poland.
 
 # About me
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 👀 I’m interested in C#, Python, Java <br />
 🌱 I’m currently developing my skills in ASP.NET <br />
 💞️ I'm working at Accenture Poland sp. z o.o as Application Developer <br />
 📫 How to reach me: mactii41@gmail.com  <br />
 
 # Technologies
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 - C lang (intermediate)
 - OOP with C# (intermediate), Java (basic/intermediate), C++ (basic/intermediate)
 - Web-development using ASP.NET, C# .NET, WebAPI
