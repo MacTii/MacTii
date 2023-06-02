@@ -57,6 +57,7 @@ Currently working as a Application Developer at Accenture Poland.
   <img align="left" alt="Spring" title="Spring" width="50px" height="35px" src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/spring_logo_2.png?1614082637" />
   
   <img align="left" alt="NodeJS" title="NodeJS" width="50px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
+</a>
 
 # Tools
 <a href="#">
@@ -80,6 +81,7 @@ Currently working as a Application Developer at Accenture Poland.
   <img align="left" alt="IntelliJ" title="IntelliJ" width="30px" src="https://camo.githubusercontent.com/6be47a62910e3b2ed002be2605a536856a34d68f35122735362225471a767077/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39632f496e74656c6c694a5f494445415f49636f6e2e7376672f3132303070782d496e74656c6c694a5f494445415f49636f6e2e7376672e706e67" />
 
   <img align="left" alt="PyCharm" title="PyCharm" width="30px" src="https://camo.githubusercontent.com/1fa524a1ea91aae6cb70c068326918cfe726368f8b7bbedd86163d29852dffa9/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31642f5079436861726d5f49636f6e2e7376672f3230343870782d5079436861726d5f49636f6e2e7376672e706e67" />
+</a>
 
 <!---
 MacTii/MacTii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
