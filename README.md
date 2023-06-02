@@ -1,6 +1,6 @@
 # 👋 Hi there  
 Welcome to my GitHub! My name is Mateusz Kapka, also known as MacTii. I am a Computer Science student at the Lodz University of Technology, Poland.
-Currently working as a Application Developer at Accenture Poland.
+Currently working as a Application Developer at [Accenture Poland](https://www.accenture.com/pl-pl).
 
 # About me
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
