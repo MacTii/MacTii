@@ -40,6 +40,7 @@ Currently working as a Application Developer at Accenture Poland.
    <img align="left" alt="React" title="React" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"/>
    <img align="left" alt="Spring" title="Spring" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"/>
    <img align="left" alt="nodeJS" title="nodeJS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"/>
+   <img align="left" alt="Vue" title="Vue" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg"/>
    <br /> <br />
 </a>
 
@@ -55,7 +56,9 @@ Currently working as a Application Developer at Accenture Poland.
 
 # IDEs
 <a href="#">
-   <img align="left" src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
+   <img align="left" alt="VSCode" title="VSCode" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
+   <img align="left" alt="VisualStudio" title="VisualStudio" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"/>
+   <img align="left" alt="InteliJ" title="InteliJ" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"/>
 </a>
 
 <!---
