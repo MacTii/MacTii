@@ -26,7 +26,7 @@ Currently working as a Application Developer at Accenture Poland.
    <img align="left" alt="C" title="C" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" />
    <img align="left" alt="Cpp" title="C++" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" />
    <img align="left" alt="Python" title="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
-   <img align="left" alt="SQL" title="SQL" width="40px" height="40px" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" />
+   <img align="left" alt="SQL" title="SQL" width="40px" height="40px" src="https://www.clipartmax.com/png/middle/243-2432711_azure-sql-database-icon.png" />
    <img align="left" alt="Html" title="HTML" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
    <img align="left" alt="Css" title="CSS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
    <img align="left" alt="Php" title="PHP" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg"/>
