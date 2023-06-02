@@ -44,7 +44,7 @@ Currently working as a Application Developer at Accenture Poland.
   
   <img align="left" alt="JS" title="JavaScript" width="30px" 
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+   <img align="left" width="40px" height= "40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
    <img align="left" src="https://skillicons.dev/icons?i=cs,java,c,cpp,py,sql," />
    <br /> <br />
 </a>
