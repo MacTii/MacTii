@@ -49,7 +49,7 @@ Currently working as a Application Developer at Accenture Poland.
    <img align="left" alt="Git" title="Git" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
    <img align="left" alt="Github" title="GitHub" width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-github-159-721954.png"/>
    <img align="left" alt="AndroidStudio" title="AndroidStudio" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg"/>
-   <img align="left" alt="Unity" title="Unity" width="40px" height="40px" src="https://e7.pngegg.com/pngimages/989/132/png-clipart-computer-icons-unity-technologies-computer-software-video-game-unity-angle-emblem-thumbnail.png"/>
+   <img align="left" alt="Unity" title="Unity" width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png"/>
    <img align="left" alt="Godot" title="Godot" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg"/>
    <br /> <br />
 </a>
