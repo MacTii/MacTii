@@ -53,6 +53,7 @@ Currently working as a Application Developer at Accenture Poland.
    <img align="left" alt="Unity" title="Unity" width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png"/>
    <img align="left" alt="Godot" title="Godot" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg"/>
    <img align="left" alt="Postman" title="Postman" width="40px" height="40px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/>
+   <img align="left" alt="RabbitMQ" title="RabbitMQ" width="40px" height="40px" src="https://pbs.twimg.com/profile_images/1223261138059780097/eH73w5lN_400x400.jpg"/>
    <br /> <br />
 </a>
 
