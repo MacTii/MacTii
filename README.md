@@ -27,20 +27,10 @@ Currently working as a Application Developer at Accenture Poland.
    <img align="left" alt="Cpp" title="C++" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" />
    <img align="left" alt="Python" title="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
    <img align="left" alt="SQL" title="SQL" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-
-  <img align="left" alt="Html" title="HTML" width="32px" 
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
-  
-  <img align="left" alt="Css" title="CSS" width="24px" 
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
-  
-  <img align="left" alt="Php" title="PHP" width="30px" height= "20px"
-       src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>
-  
-  <img align="left" alt="JS" title="JavaScript" width="30px" 
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-   <img align="left" width="40px" height= "40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-   <img align="left" src="https://skillicons.dev/icons?i=cs,java,c,cpp,py,sql," />
+   <img align="left" alt="Html" title="HTML" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
+   <img align="left" alt="Css" title="CSS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
+   <img align="left" alt="Php" title="PHP" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg"/>
+   <img align="left" alt="JS" title="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
    <br /> <br />
 </a>
 
