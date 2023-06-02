@@ -37,6 +37,7 @@ Currently working as a Application Developer at Accenture Poland.
 # Frameworks and libraries
 <a href="#">
    <img align="left" alt="dotNET" title=".NETCore" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg"/>
+   <img align="left" alt="xUnit" title="xUnit" width="40px" height="40px" src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4"/>
    <img align="left" alt="React" title="React" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"/>
    <img align="left" alt="Spring" title="Spring" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"/>
    <img align="left" alt="nodeJS" title="nodeJS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"/>
