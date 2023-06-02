@@ -49,6 +49,7 @@ Currently working as a Application Developer at Accenture Poland.
 
 <!-- [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MacTii&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/MacTii/MacTii) -->
 #Frameworks and libraries
+<a href="#">
   <img align="left" alt="EF" title="EF Core" width="50px" height="35px" src="https://static.gunnarpeipman.com/wp-content/uploads/2019/12/ef-core-featured.png" />
   
   <img align="left" alt="React" title="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -58,6 +59,7 @@ Currently working as a Application Developer at Accenture Poland.
   <img align="left" alt="NodeJS" title="NodeJS" width="50px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
 
 # Tools
+<a href="#">
   <img align="left" alt="Git" title="Git" width="30px" src="https://i1.wp.com/kosiorowski.net/wp-content/uploads/2014/01/git-logo-cc-by-300x300.png?fit=300%2C300&ssl=1" />
 
   <img align="left" alt="Github" title="GitHub" width="30px" src="https://camo.githubusercontent.com/591b9ddafbc5d7683b318413d8b8b80213d84b7c7fdba2ce2d26cca51f53b6ee/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733332f3733333535332e706e67" />
