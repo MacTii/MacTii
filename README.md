@@ -39,7 +39,7 @@ Currently working as a Application Developer at Accenture Poland.
   <img align="left" alt="Css" title="CSS" width="24px" 
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
   
-  <img align="left" alt="Php" title="PHP" width="30px" height= "25px"
+  <img align="left" alt="Php" title="PHP" width="30px" height= "23px"
        src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>
   
   <img align="left" alt="JS" title="JavaScript" width="30px" 
@@ -54,7 +54,7 @@ Currently working as a Application Developer at Accenture Poland.
   
   <img align="left" alt="React" title="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   
-  <img align="left" alt="Spring" title="Spring" width="50px" height="35px" src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/spring_logo_2.png?1614082637" />
+  <img align="left" alt="Spring" title="Spring" width="55px" height="35px" src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/spring_logo_2.png?1614082637" />
   
   <img align="left" alt="NodeJS" title="NodeJS" width="50px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
   <br /> <br />
@@ -70,7 +70,7 @@ Currently working as a Application Developer at Accenture Poland.
   
   <img align="left" alt="Unity" title="Unity" width="30px" src="https://feel3d.pl/wp-content/uploads/2020/09/unity-logo.png" />
   
-  <img align="left" alt="Godot" title="Godot" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />
+  <img align="left" alt="Godot" title="Godot" width="35px" height="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />
   <br /> <br />
 </a>
 
