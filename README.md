@@ -63,7 +63,7 @@ Currently working as a Application Developer at [Accenture Poland](https://www.a
    <img align="left" alt="Unity" title="Unity" width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png"/>
    <img align="left" alt="Godot" title="Godot" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg"/>
    <img align="left" alt="3dsMax" title="3dsMax" width="40px" height="40px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/3ds_Max_23640.png"/>
-   <img align="left" alt="AutoCad" title="AutoCAD" width="40px" height="40px" src="https://w7.pngwing.com/pngs/429/863/png-transparent-autocad-2015-autodesk-computer-icons-autocad-architecture-design-angle-triangle-autocad.png"/>
+   <img align="left" alt="AutoCad" title="AutoCAD" width="40px" height="40px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Autodesk-Autocad-icon.png"/>
    <br /> <br />
 </a>
 
