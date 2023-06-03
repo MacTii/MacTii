@@ -62,6 +62,7 @@ Currently working as a Application Developer at [Accenture Poland](https://www.a
    <img align="left" alt="AndroidStudio" title="AndroidStudio" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg"/>
    <img align="left" alt="Unity" title="Unity" width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png"/>
    <img align="left" alt="Godot" title="Godot" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg"/>
+   <img align="left" alt="3dsMax" title="3dsMax" width="40px" height="40px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/3ds_Max_23640.png"/>
    <br /> <br />
 </a>
 
