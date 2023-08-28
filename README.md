@@ -16,7 +16,7 @@ Currently working as a Application Developer at [Accenture Poland](https://www.a
 
 # Technologies
 - C lang (intermediate)
-- OOP with C# (intermediate), Java (basic/intermediate), C++ (basic/intermediate)
+- OOP with C# (intermediate/upper-intermediate), Java (basic/intermediate), C++ (basic/intermediate)
 - Web-development using ASP.NET, C# .NET, WebAPI
 - Experienced in SQL Server
 - Python and many useful libraries like matplotlib, skimage, pyGame, pyQt, etc. (basic/intermediate)
