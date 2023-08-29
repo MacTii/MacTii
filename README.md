@@ -5,7 +5,7 @@ Currently working as a Application Developer at [Accenture Poland](https://www.a
 # About me
 <a href="#"> <img align="right" alt="Coding" width="400" height="265" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </a>
 👀 I’m interested in C#, Python, Java <br />
-🌱 I’m currently developing my skills in ASP.NET <br />
+🌱 I’m currently developing my skills in ASP.NET and React <br />
 💞️ I'm working at Accenture Poland sp. z o.o as Application Developer <br />
 📫 How to reach me: mactii41@gmail.com  <br />
 
@@ -14,16 +14,36 @@ Currently working as a Application Developer at [Accenture Poland](https://www.a
    <a href="mailto:mactii41@gmail.com"><img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Mail" height="40px" width="40px" /></a>
    <br /> <br />
 
-# Technologies
-- C lang (intermediate)
-- OOP with C# (intermediate/upper-intermediate), Java (basic/intermediate), C++ (basic/intermediate)
-- Web-development using ASP.NET, C# .NET, WebAPI
-- Experienced in SQL Server
-- Python and many useful libraries like matplotlib, skimage, pyGame, pyQt, etc. (basic/intermediate)
-- Basics of creating websites using html, css and php
-- Project management with tools like git, Azure, Jira and Trello
-- Basic knowledge of 3D modelling in 3DSmax
-- Basics of AutoCAD
+# Skills and Technologies
+
+## Programming Languages
+- **C:** Proficient with an intermediate level of expertise, capable of developing efficient and optimized code.
+- **C#:** Intermediate to upper-intermediate proficiency with a strong understanding of OOP principles.
+- **Java:** Basic to intermediate knowledge, including object-oriented concepts.
+- **C++:** Basic to intermediate familiarity, enabling versatile application development.
+
+## Web Development
+- **ASP.NET & C# .NET:** Skilled in building dynamic web applications, integrating back-end functionality with user-friendly front-end interfaces.
+- **WebAPI:** Proficient in developing WebAPIs to facilitate seamless communication between different components of web applications.
+- **React/JavaScript Library:** Proficient in utilizing React to create modern and responsive user interfaces for web applications.
+- **HTML, CSS, and PHP:** Skilled in crafting and styling web content using HTML and CSS, with a basic understanding of PHP for server-side scripting.
+
+## Database Management
+- **SQL Server:** Experienced in working with SQL Server for efficient data storage, retrieval, and management in applications.
+
+## Python and Libraries
+- **Python:** Proficient in programming with a focus on data analysis, automation, and scripting.
+- **Libraries:** Familiarity with various Python libraries such as matplotlib, skimage, pyGame, and pyQt, enhancing capabilities for tasks ranging from data visualization to game development.
+
+## Project Management and Tools
+- **Git:** Experienced in version control using Git, facilitating collaborative software development and efficient code management.
+- **Azure, Jira, and Trello:** Proficient in using Azure for cloud services, Jira for issue tracking, and Trello for project management, streamlining development workflows.
+
+## 3D Modeling
+- **3DS Max:** Possess basic knowledge of 3D modeling using 3DS Max, enabling the creation of visualizations and virtual environments.
+
+## AutoCAD
+- **Basics of AutoCAD:** Familiar with the fundamentals of AutoCAD, providing a foundation for designing 2D and basic 3D models.
 
 # Languages
 <a href="#">
