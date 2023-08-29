@@ -17,33 +17,31 @@ Currently working as a Application Developer at [Accenture Poland](https://www.a
 # Skills and Technologies
 
 ## Programming Languages
-- **C:** Proficient with an intermediate level of expertise, capable of developing efficient and optimized code.
-- **C#:** Intermediate to upper-intermediate proficiency with a strong understanding of OOP principles.
+- **C:** Proficient with an intermediate level of expertise.
+- **C#:** Intermediate to upper-intermediate proficiency (OOP).
 - **Java:** Basic to intermediate knowledge, including object-oriented concepts.
-- **C++:** Basic to intermediate familiarity, enabling versatile application development.
+- **C++:** Basic to intermediate familiarity.
+- **Python:** Proficient in data analysis, automation, and scripting.
+  - Familiar with various libraries, including matplotlib, skimage, pyGame, pyQt.
 
 ## Web Development
-- **ASP.NET & C# .NET:** Skilled in building dynamic web applications, integrating back-end functionality with user-friendly front-end interfaces.
-- **WebAPI:** Proficient in developing WebAPIs to facilitate seamless communication between different components of web applications.
-- **React/JavaScript Library:** Proficient in utilizing React to create modern and responsive user interfaces for web applications.
-- **HTML, CSS, and PHP:** Skilled in crafting and styling web content using HTML and CSS, with a basic understanding of PHP for server-side scripting.
+- **ASP.NET & C# .NET:** Dynamic web application development.
+- **WebAPI:** Proficient in creating WebAPIs for communication.
+- **React/JavaScript Library:** Proficient in building modern UIs.
+- **HTML, CSS, and PHP:** Crafting and styling web content.
 
 ## Database Management
-- **SQL Server:** Experienced in working with SQL Server for efficient data storage, retrieval, and management in applications.
-
-## Python and Libraries
-- **Python:** Proficient in programming with a focus on data analysis, automation, and scripting.
-- **Libraries:** Familiarity with various Python libraries such as matplotlib, skimage, pyGame, and pyQt, enhancing capabilities for tasks ranging from data visualization to game development.
+- **SQL Server:** Experienced in data storage and retrieval.
 
 ## Project Management and Tools
-- **Git:** Experienced in version control using Git, facilitating collaborative software development and efficient code management.
-- **Azure, Jira, and Trello:** Proficient in using Azure for cloud services, Jira for issue tracking, and Trello for project management, streamlining development workflows.
+- **Git:** Experienced in version control.
+- **Azure, Jira, Trello:** Proficient in project management tools.
 
 ## 3D Modeling
-- **3DS Max:** Possess basic knowledge of 3D modeling using 3DS Max, enabling the creation of visualizations and virtual environments.
+- **3DS Max:** Basic knowledge of 3D modeling.
 
 ## AutoCAD
-- **Basics of AutoCAD:** Familiar with the fundamentals of AutoCAD, providing a foundation for designing 2D and basic 3D models.
+- **Basics of AutoCAD:** Fundamental understanding.
 
 # Languages
 <a href="#">
