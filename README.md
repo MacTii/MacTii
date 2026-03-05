@@ -7,7 +7,7 @@ Currently working as an **Application Developer** at [Accenture Poland](https://
 
 ### About me
 
-- 👀 Interested in **C#**, **Python**, **Java**
+- 👀 Interested in **C#**, **ASP.NET**, **AI**
 - 🌱 Currently developing skills in **ASP.NET** and **React**
 - 💼 Working at **Accenture Poland** as Application Developer
 - 📫 Reach me at: mactii41@gmail.com
