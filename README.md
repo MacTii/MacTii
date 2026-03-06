@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Mateusz Kapka (MacTii)
 
-Computer Science student at **Lodz University of Technology**, Poland.  
-Currently working as an **Application Developer** at [Accenture Poland](https://www.accenture.com/pl-pl).
+Computer Science student at **Lodz University of Technology**, Poland. Currently working as an **Application Developer** at [Accenture Poland](https://www.accenture.com/pl-pl).
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ### About me
 
